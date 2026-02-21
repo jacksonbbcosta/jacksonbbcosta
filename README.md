@@ -1,40 +1,53 @@
-### Olá! Sou Jackson Bruno 👋
+Olá! Sou Jackson Bruno 👋
+Sou estudante de Ciência da Computação e movido pelo desafio de resolver problemas reais através da tecnologia — seja otimizando processos logísticos, criando soluções para o comércio local ou desenvolvendo sistemas de gestão escaláveis.
 
-Sou estudante de Ciências da Computação e movido pelo desafio de resolver problemas reais através da tecnologia — seja otimizando processos no trabalho, criando soluções para o comércio local ou desenvolvendo projetos pessoais.
+Atualmente, foco no ecossistema PHP e no desenvolvimento Mobile (React Native), transformando necessidades complexas em ferramentas simples e eficientes.
 
-Atualmente meu foco é o ecossistema **PHP**, onde busco transformar necessidades complexas em sistemas simples e eficientes.
+🛠️ Tecnologias & Ferramentas
+Back-end: PHP (Moderno/OO), Node.js, SQL
 
----
+Mobile: React Native, Expo, Context API
 
-### 🛠️ Tecnologias & Ferramentas
+Front-end: HTML5, CSS3, Bootstrap
 
-* **Back-end:** PHP (Moderno e Orientado a Objetos), SQL
-* **Front-end:** HTML5, CSS3, Bootstrap
-* **Banco de Dados:** MySQL / MariaDB
-* **Infraestrutura:** Gestão de servidores (Hostinger/cPanel), Git/GitHub
+Banco de Dados: MySQL / MariaDB
 
----
+Infraestrutura: Gestão de servidores (Hostinger/cPanel), Git/GitHub
 
-### 🚀 Projetos em Destaque
+🚀 Projetos em Destaque
+🗓️ Tratto (SaaS)
+Plataforma SaaS focada em gestão de agendamentos e automação de negócios. O sistema permite que empresas gerenciem seus horários e clientes de forma profissional.
 
-#### 🛍️ Moda Perto (Em desenvolvimento)
-Uma plataforma de marketplace focada em **conectar clientes a lojas de moda locais**. O sistema permite que o usuário encontre produtos específicos (ex: "camisa preta M") em lojas do seu próprio bairro, funcionando como um "Google do comércio local".
-* **Tecnologias:** PHP Puro, MySQL (com otimização de queries), Geolocalização.
-* **Destaque:** Sistema de busca inteligente e painel administrativo para lojistas.
-* 🔴 *O código deste projeto é privado por ser um produto comercial.*
-* [🔗 **Acessar Projeto Online**](https://modaperto.com.br/)
+Tecnologias: PHP, MySQL, Estrutura MVC.
 
-#### ⚽ GerenciaScore
-Sistema web desenvolvido para **gestão de estratégias esportivas e bolões**. Permite o cadastro de palpites, cálculo automático de pontuações, etc.
-* **Tecnologias:** PHP, Estrutura MVC, Autenticação de Usuários.
-* 🔴 *Código mantido privado (Propriedade Intelectual).*
-* [🔗 **Acessar Projeto Online**](https://www.jbbc.com.br/gerenciascore/login.php)
+🔗 Ver Landing Page
 
----
+📦 merchAPP (Trabalho de Extensão)
+Aplicativo Android para gestão de merchandising e inventário. Resolve gargalos de comunicação logística substituindo planilhas por um catálogo digital otimizado.
 
-### 📫 Contato
+Tecnologias: React Native, Expo, Sharp (Otimização de Assets).
 
+Destaque: Redução de 85% no tamanho do app (38.1MB).
+
+🔗 Ver Repositório
+
+📍 Tem Perto
+Plataforma de marketplace abrangente que conecta consumidores a qualquer tipo de comércio local. Expansão do modelo de geolocalização para todos os nichos de mercado.
+
+Tecnologias: PHP, MySQL, Geolocalização Avançada.
+
+🔗 Acessar Projeto Online
+
+🛍️ Moda Perto
+Marketplace especializado no nicho fashion, funcionando como um buscador de produtos locais por geolocalização.
+
+Tecnologias: PHP Puro, MySQL.
+
+🔗 Acessar Projeto Online
+
+📫 Contato
 Estou disponível para novos projetos e desafios.
 
-* [LinkedIn](https://www.linkedin.com/in/jacksonbbcosta/)
-* Email: jacksonbragacosta@gmail.com
+LinkedIn
+
+Email: jacksonbragacosta@gmail.com
